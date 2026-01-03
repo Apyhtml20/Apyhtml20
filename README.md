@@ -6,15 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0078D7&center=true&vCenter=true&width=500&lines=Ingénieur+Logiciel+en+devenir;Passionné+par+l'IA+et+le+C%2B%2B;Étudiant+à+l'ENSA+Oujda" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://linkedin.com/in/ton-linkedin" target="https://www.linkedin.com/in/hicham-abadour-2166ba99/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/hicham-abadour-2166ba99/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp; &nbsp;
   <a href="mailto:hicham.abadour.23@ump.ac.ma">
-    <img src="https://img.shields.io/badge/Email-Me_Contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-ME_CONTACTER-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
 
 </div>
 
