@@ -1,10 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hicham%20Abadour&fontSize=72&animation=fadeIn&fontAlignY=36&desc=Software%20%26%20AI%20Engineering%20Student&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ██╗  ██╗██╗ ██████╗██╗  ██╗ █████╗ ███╗   ███╗                   ║
+║   ██║  ██║██║██╔════╝██║  ██║██╔══██╗████╗ ████║                   ║
+║   ███████║██║██║     ███████║███████║██╔████╔██║                   ║
+║   ██╔══██║██║██║     ██╔══██║██╔══██║██║╚██╔╝██║                   ║
+║   ██║  ██║██║╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║                   ║
+║   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                   ║
+║                                                                      ║
+║         A B A D O U R  ·  Software & AI Engineering Student         ║
+║                       @ ENSA Oujda  🎓                              ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Engineering+Software+that+Thinks+%F0%9F%A7%A0;C%2B%2B+Architect+%7C+AI+Enthusiast+%F0%9F%A4%96;Student+%40+ENSA+Oujda+%F0%9F%8E%93;Building+the+Future+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Engineering+Software+that+Thinks+%F0%9F%A7%A0;C%2B%2B+%7C+Python+%7C+AI+%7C+Systems+%F0%9F%94%A7;Student+%40+ENSA+Oujda+%F0%9F%8E%93;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +23,15 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hicham.abadour.23@ump.ac.ma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apyhtml20)
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=Apyhtml20&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+&nbsp;
+![followers](https://img.shields.io/github/followers/Apyhtml20?label=Followers&style=flat-square&color=58A6FF)
+
+<br/>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
@@ -168,10 +187,17 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 
 </div>
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+```
+  ╔═══════════════════════════════════════════════════════╗
+  ║   Thanks for visiting! Let's build something great.  ║
+  ║          — Hicham Abadour  @Apyhtml20  🚀            ║
+  ╚═══════════════════════════════════════════════════════╝
+```
+
+*"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
