@@ -10,9 +10,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-abadour-2166ba99/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hicham.abadour.23@ump.ac.ma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HichamAbadour)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apyhtml20)
 
-<img src="https://komarev.com/ghpvc/?username=HichamAbadour&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Apyhtml20&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -98,10 +98,10 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** ðŸ
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HichamAbadour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HichamAbadour&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Apyhtml20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Apyhtml20&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak Stats" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HichamAbadour&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apyhtml20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -111,7 +111,7 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** ðŸ
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HichamAbadour&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Apyhtml20&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -121,7 +121,7 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** ðŸ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HichamAbadour&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apyhtml20&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
