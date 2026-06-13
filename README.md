@@ -3,15 +3,15 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║   ██╗  ██╗██╗ ██████╗██╗  ██╗ █████╗ ███╗   ███╗                   ║
-║   ██║  ██║██║██╔════╝██║  ██║██╔══██╗████╗ ████║                   ║
-║   ███████║██║██║     ███████║███████║██╔████╔██║                   ║
-║   ██╔══██║██║██║     ██╔══██║██╔══██║██║╚██╔╝██║                   ║
-║   ██║  ██║██║╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║                   ║
-║   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                   ║
+║   ██╗  ██╗██╗ ██████╗██╗  ██╗ █████╗ ███╗   ███╗                     ║
+║   ██║  ██║██║██╔════╝██║  ██║██╔══██╗████╗ ████║                     ║ 
+║   ███████║██║██║     ███████║███████║██╔████╔██║                     ║
+║   ██╔══██║██║██║     ██╔══██║██╔══██║██║╚██╔╝██║                     ║
+║   ██║  ██║██║╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║                     ║
+║   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                     ║
 ║                                                                      ║
-║         A B A D O U R  ·  Software & AI Engineering Student         ║
-║                       @ ENSA Oujda  🎓                              ║
+║         ABADOUR  ·  Software & AI Engineering Student                ║
+║                       @ENSA Oujda                                    ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -69,13 +69,14 @@
 
 > *"The best way to predict the future is to engineer it."*
 
-I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** 🎓, passionate about writing clean, performant code and exploring the frontiers of Artificial Intelligence. I thrive at the intersection of **low-level systems programming** (C++) and **high-level intelligent systems** (ML/AI).
+I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** 🎓, passionate about writing clean, performant code and exploring the frontiers of Artificial Intelligence.
 
 - 🔭 Currently building projects at the intersection of **AI & Systems**
-- 🌱 Deepening expertise in **Deep Learning**, **Computer Architecture** & **Algorithms**
+- 🌱 Deepening expertise and learning about **Deep Learning**, **LLM Architectures** & **System Architectures**
 - 💡 Always curious, always iterating
 - ☕ Powered by coffee & compiler errors
-
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ApyHTML19)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hichamabadour)
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -98,10 +99,10 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -152,11 +153,11 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 ┌─────────────────────────────────────────────────────────────────────┐
 │                         2025 Learning Path                          │
 ├───────────────────────┬─────────────────────┬───────────────────────┤
-│  🧠 Deep Learning     │  ⚙️ Systems Design   │  🏗️ Architecture     │
+│  🧠 Deep Learning     │  ⚙️ Systems Design   │  🏗️ Architecture   │
 │  ─────────────────    │  ─────────────────  │  ──────────────────   │
 │  • Neural Networks    │  • Distributed Sys  │  • CPU Architecture   │
-│  • Transformers       │  • Microservices    │  • Memory Hierarchy   │
-│  • Computer Vision    │  • API Design       │  • Cache Optimization │
+│  • Transformers       │  • Microservices    │                       │
+│  • Machine Learning   │  • API Design       │  • Cache Optimization │
 └───────────────────────┴─────────────────────┴───────────────────────┘
 ```
 
