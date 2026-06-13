@@ -32,10 +32,9 @@
 </div>
 
 ---
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
-<br clear="right"/>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+</div>
 ---
 
 ## 🚀 About Me
