@@ -10,8 +10,8 @@
 ║   ██║  ██║██║╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║                     ║
 ║   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                     ║
 ║                                                                      ║
-║         ABADOUR  ·  Software & AI Engineering Student                ║
-║                       @ENSA Oujda                                    ║
+║         Software & AI Engineering Student                            ║
+║                  @ENSA Oujda                                         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -22,7 +22,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-abadour-2166ba99/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hicham.abadour.23@ump.ac.ma)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apyhtml20)
-
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ApyHTML19)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hichamabadour)
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Apyhtml20&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
@@ -75,8 +76,6 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 - 🌱 Deepening expertise and learning about **Deep Learning**, **LLM Architectures** & **System Architectures**
 - 💡 Always curious, always iterating
 - ☕ Powered by coffee & compiler errors
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ApyHTML19)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hichamabadour)
 ---
 
 ## 🛠️ Tech Stack & Tools
