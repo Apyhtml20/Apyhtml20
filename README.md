@@ -25,11 +25,6 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/ApyHTML19)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hichamabadour)
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=Apyhtml20&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-&nbsp;
-![followers](https://img.shields.io/github/followers/Apyhtml20?label=Followers&style=flat-square&color=58A6FF)
-
 <br/>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
