@@ -87,17 +87,6 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apyhtml20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Apyhtml20&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph
@@ -116,11 +105,11 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 ┌─────────────────────────────────────────────────────────────────────┐
 │                         2025 Learning Path                          │
 ├───────────────────────┬─────────────────────┬───────────────────────┤
-│  🧠 Deep Learning     │  ⚙️ Systems Design   │  🏗️ Architecture   │
+│  🧠 Deep Learning     │  ⚙️ Systems Design │  🏗️ Architecture      │
 │  ─────────────────    │  ─────────────────  │  ──────────────────   │
-│  • Neural Networks    │  • Distributed Sys  │  • CPU Architecture   │
-│  • Transformers       │  • Microservices    │                       │
-│  • Machine Learning   │  • API Design       │  • Cache Optimization │
+│  • Neural Networks    │  • Monolithic       │  •CPU Architecture    │
+│  • Transformers       │  • Microservices    │  • GPU Architecture   │
+│  • Machine Learning   │  • API Design       │  • CUDA               │
 └───────────────────────┴─────────────────────┴───────────────────────┘
 ```
 
