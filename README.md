@@ -34,29 +34,6 @@
 ---
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
-
-### 🧬 `Hicham_Config.json`
-
-```json
-{
-  "engineer"    : "Hicham Abadour",
-  "institution" : "ENSA Oujda — École Nationale des Sciences Appliquées",
-  "focus"       : [
-    "Software Engineering",
-    "Artificial Intelligence",
-    "Computer Architecture"
-  ],
-  "stack"       : ["C++", "Python", "Java", "JavaScript"],
-  "properties"  : {
-    "curiosity"       : "∞",
-    "hard_worker"     : true,
-    "coffee_consumer" : true,
-    "open_to_collab"  : true
-  },
-  "status"      : "Ready to build... 🚀"
-}
-```
-
 <br clear="right"/>
 
 ---
