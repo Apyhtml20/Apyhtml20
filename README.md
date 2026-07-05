@@ -73,17 +73,7 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Apyhtml20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Apyhtml20&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="Streak Stats" />
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apyhtml20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-</div>
----
+</div> 
 
 ## 📈 Contribution Graph
 
