@@ -34,7 +34,7 @@
 
 > *"The best way to predict the future is to engineer it."*
 
-I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** 🎓, passionate about writing clean, performant code and exploring the frontiers of Artificial Intelligence.
+I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** 🎓, passionate about exploring the frontiers of Artificial Intelligence.
 
 - 🔭 Currently building projects at the intersection of **AI & Systems**
 - 🌱 Deepening expertise and learning about **Deep Learning**, **LLM Architectures** & **System Architectures**
@@ -93,7 +93,7 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 ├───────────────────────┬─────────────────────┬───────────────────────┤
 │  🧠 Deep Learning     │  ⚙️ Systems Design │  🏗️ Architecture      │
 │  ─────────────────    │  ─────────────────  │  ──────────────────   │
-│  • Neural Networks    │  • Monolithic       │  •CPU Architecture    │
+│  • Neural Networks    │  • Monolithic       │  • CPU Architecture    │
 │  • Transformers       │  • Microservices    │  • GPU Architecture   │
 │  • Machine Learning   │  • API Design       │  • CUDA               │
 └───────────────────────┴─────────────────────┴───────────────────────┘
@@ -132,8 +132,8 @@ I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** �
 
 ```
   ╔═══════════════════════════════════════════════════════╗
-  ║   Thanks for visiting! Let's build something great.  ║
-  ║          — Hicham Abadour  @Apyhtml20  🚀            ║
+  ║   Thanks for visiting! Let's build something great.   ║
+  ║          — Hicham Abadour  @Apyhtml20  🚀             ║
   ╚═══════════════════════════════════════════════════════╝
 ```
 
