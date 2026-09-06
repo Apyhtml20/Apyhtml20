@@ -10,7 +10,7 @@
 ║   ██║  ██║██║╚██████╗██║  ██║██║  ██║██║ ╚═╝ ██║                     ║
 ║   ╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                     ║
 ║                                                                      ║
-║         Software & AI Engineering Student                            ║
+║         Software & AI Engineer Student                               ║
 ║                  @ENSA Oujda                                         ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -34,7 +34,7 @@
 
 > *"The best way to predict the future is to engineer it."*
 
-I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda** 🎓, passionate about exploring the frontiers of Artificial Intelligence.
+I'm **Hicham Abadour**, a Software & AI Engineering student at **ENSA Oujda**, passionate about exploring the frontiers of Artificial Intelligence.
 
 - 🔭 Currently building projects at the intersection of **AI & Systems**
 - 🌱 Deepening expertise and learning about **Deep Learning**, **LLM Architectures** & **System Architectures**
